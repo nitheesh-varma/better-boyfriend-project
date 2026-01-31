@@ -2,10 +2,6 @@
 
 **The AI-powered camera assistant that saves relationships, one photo at a time.**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify)](https://betterboyfriend.netlify.app)
-[![Tech Stack](https://img.shields.io/badge/AI-MediaPipe-blue?style=for-the-badge)](https://developers.google.com/mediapipe)
-[![Platform](https://img.shields.io/badge/Platform-Web-orange?style=for-the-badge)](https://betterboyfriend.netlify.app)
-[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](./LICENSE)
 
 ## 📖 Overview
 
